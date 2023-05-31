@@ -1,1 +1,2 @@
 This datasets are downloaded and extracted from https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+We cant upload the file on github because the file is exceed 25 MB.
